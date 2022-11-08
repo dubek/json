@@ -90,7 +90,7 @@ to the following.
 ### FetchContent
 
 Since CMake v3.11, [FetchContent](https://cmake.org/cmake/help/v3.11/module/FetchContent.html) can be used to
-automatically download a release as a dependency at configure type.
+automatically download a release as a dependency at configure time.
 
 !!! example
 
